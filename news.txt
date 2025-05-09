@@ -1,4 +1,4 @@
-🔥 Welcome to Legacy Launcher v1!
+- Welcome to Legacy Launcher v1!
 - Added Custom Skins
 - Added Api Support
 - Added New Backend
