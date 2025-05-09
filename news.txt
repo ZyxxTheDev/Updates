@@ -3,3 +3,4 @@
 - DLL auto-injection improved
 - Bug fixes and performance boosts
 - Added Some New Stuff To Custom Skins
+- Aded Some New Sigma stuff
