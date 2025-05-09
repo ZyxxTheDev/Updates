@@ -1,0 +1,4 @@
+🔥 Welcome to Legacy Launcher v1!
+- New build support added
+- DLL auto-injection improved
+- Bug fixes and performance boosts
