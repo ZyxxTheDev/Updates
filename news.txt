@@ -1,6 +1,5 @@
 🔥 Welcome to Legacy Launcher v1!
-- New build support added
-- DLL auto-injection improved
-- Bug fixes and performance boosts
-- Added Some New Stuff To Custom Skins
-- Aded Some New Sigma stuff
+- Added Custom Skins
+- Added Api Support
+- Added New Backend
+- Added New UI
